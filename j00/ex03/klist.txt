@@ -1,0 +1,7 @@
+redentials cache: API:72671BDF-2B16-4CA9-A585-E77F55493905
+        Principal: hkoumba@42.FR
+
+		  Issued                Expires               Principal
+		  Aug 26 15:37:22 2019  Sep  2 15:37:22 2019  krbtgt/42.FR@42.FR
+		  Aug 26 15:37:24 2019  Sep  2 15:37:22 2019  ldap/ldap-proxy.42.fr@42.FR
+		  Aug 26 15:37:24 2019  Sep  2 15:37:22 2019  HTTP/student-storage-1.42.fr@42.FR
